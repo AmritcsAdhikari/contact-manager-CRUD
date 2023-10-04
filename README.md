@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-CRUD with Search Feature - `React with Typescript, useState, useEffect, React-Router-DOM, Toastify json-server`
+CRUD with Search Feature - `React with Typescript, useState, useEffect, React-Router-DOM, Toastify JSON-server`
 
 ## QuickStart
 `server`
