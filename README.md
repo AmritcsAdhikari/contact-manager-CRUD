@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Contact Manager Application
 
 CRUD with Search Feature - `React with Typescript, useState, useEffect, React-Router-DOM, Toastify JSON-server`
 
